@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AspStudio PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspStudio/Startup.cs">
+    <Files>
+      <File FileName="AspStudio/ScaffoldingReadMe.txt" Line="1" Column="1" />
+      <File FileName="AspStudio/sidebar.json" Line="1" Column="1" />
+      <File FileName="AspStudio/Startup.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspStudio" expanded="True">
+            <Node name="AspStudio" expanded="True">
+              <Node name="src" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

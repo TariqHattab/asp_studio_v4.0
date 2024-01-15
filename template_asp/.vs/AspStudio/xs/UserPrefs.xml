@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{9B25EBD2-AD43-4A80-BEF1-94E5239C7A20}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AspStudio PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspStudio/Program.cs">
+    <Files>
+      <File FileName="AspStudio/Controllers/ChartsController.cs" />
+      <File FileName="AspStudio/Controllers/FormsController.cs" />
+      <File FileName="AspStudio/Views/Calendar/Index.cshtml" />
+      <File FileName="AspStudio/Areas/Identity/IdentityHostingStartup.cs" />
+      <File FileName="AspStudio/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml" />
+      <File FileName="AspStudio/Areas/Identity/Pages/Account/ForgotPassword.cshtml" />
+      <File FileName="AspStudio/Views/Charts/ApexchartsJs.cshtml" />
+      <File FileName="AspStudio/Views/Email/Compose.cshtml" />
+      <File FileName="AspStudio/Views/Email/Inbox.cshtml" />
+      <File FileName="AspStudio/Views/Forms/FormElements.cshtml" />
+      <File FileName="AspStudio/wwwroot/css/app.min.css" />
+      <File FileName="AspStudio/Views/Layout/BoxedLayout.cshtml" />
+      <File FileName="AspStudio/Areas/Identity/Pages/Account/Login.cshtml" />
+      <File FileName="AspStudio/Areas/Identity/Pages/Account/Login.cshtml.cs" Line="1" Column="1" />
+      <File FileName="AspStudio/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspStudio" expanded="True" selected="True">
+            <Node name="AspStudio" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="ExternalLogin.cshtml" expanded="True" />
+                      <Node name="Login.cshtml" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Forms" expanded="True" />
+                <Node name="Layout" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Debugger.DebugSourceFolders />
+</Properties>
